@@ -5689,7 +5689,7 @@ table.hover tbody tr:nth-of-type(even):hover {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: #121212; }
+    background-color: #DFEDE2; }
   .top-bar input {
     max-width: 200px;
     margin-right: 1rem; }
